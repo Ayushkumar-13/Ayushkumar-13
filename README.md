@@ -49,6 +49,7 @@ I'm a **Full Stack Developer** with a strong emphasis on **backend development**
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ---
 
@@ -107,24 +108,40 @@ Problem Solving              ████████████████░
 
 ### 1. **College Hub** 
 📚 A comprehensive college management platform designed to streamline campus operations and enhance student experience.
-- **Tech Stack:** React, Node.js, Express, MongoDB
-- **Features:** Student portal, course management, announcement system, real-time notifications
-- **Repository:** [College-hub](https://github.com/Ayushkumar-13/College-hub)
-- **Impact:** Simplified access to academic resources and improved campus communication
+
+- **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS
+- **Features:** Student portal, course management, announcement system, real-time notifications, admin dashboard
+- **Key Achievement:** Seamless user experience with optimized backend performance
+
+| 🚀 Live Demo | 📖 Repository |
+|-----------|------------|
+| [Try College Hub](https://college-hub-pi.vercel.app/) | [View Code](https://github.com/Ayushkumar-13/College-hub) |
+
+---
 
 ### 2. **EventTix - Event Ticket Booking System**
 🎫 A robust event ticket booking platform with secure payment integration and real-time availability tracking.
-- **Tech Stack:** React, Node.js, Express, MongoDB
-- **Features:** Event creation, ticket management, payment gateway integration, booking confirmation, admin dashboard
-- **Repository:** [Event-Ticket-Booking](https://github.com/Ayushkumar-13/Event-Ticket-Booking)
-- **Key Achievement:** Successfully implemented scalable backend architecture handling concurrent bookings
+
+- **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS, Vercel
+- **Features:** Event creation, ticket management, payment gateway integration, booking confirmation, admin dashboard, real-time seat selection
+- **Key Achievement:** Successfully implemented scalable backend architecture handling concurrent bookings with transaction management
+
+| 🎟️ Live Demo | 📖 Repository |
+|-----------|------------|
+| [Explore EventTix](https://event-ticket-booking-coral.vercel.app/) | [View Code](https://github.com/Ayushkumar-13/Event-Ticket-Booking) |
+
+---
 
 ### 3. **E-Commerce Platform - UrbanNest**
 🛍️ Full-stack e-commerce solution with advanced product filtering, cart management, and secure checkout.
-- **Tech Stack:** React, Node.js, Express, MongoDB
-- **Features:** Product catalog, user authentication, shopping cart, order management, payment integration
-- **Repository:** [E-Commerce-UrbanNest](https://github.com/Ayushkumar-13/E-Commerce-UrbanNest)
-- **Recognition:** Successfully deployed with live link for user access
+
+- **Tech Stack:** React, Node.js, Express, MongoDB, Tailwind CSS
+- **Features:** Product catalog, user authentication, shopping cart, order management, payment integration, search & filter
+- **Key Achievement:** Implemented secure payment gateway and inventory management system
+
+| 📖 Repository |
+|-----------|
+| [View Code](https://github.com/Ayushkumar-13/E-Commerce-UrbanNest) |
 
 ---
 
@@ -136,12 +153,14 @@ I specialize in building **scalable, maintainable backend systems** that handle 
 - **Database Management:** Proficient in MongoDB with experience in schema design, indexing, and query optimization
 - **Authentication & Security:** Implemented JWT-based authentication systems with role-based access control (RBAC)
 - **Middleware Implementation:** Created custom middleware for request validation, error handling, and request logging
+- **Payment Integration:** Integrated payment gateways with secure transaction processing
 
 ### Full Stack Development
 Combining frontend and backend expertise to deliver complete solutions:
 - **React Ecosystem:** Building interactive UI components with state management and performance optimization
 - **Next.js Framework:** Leveraging server-side rendering and static generation for optimal performance
 - **Responsive Design:** Creating mobile-first, cross-browser compatible interfaces using Tailwind CSS
+- **Real-time Features:** Implementing live updates and notifications for enhanced user experience
 
 ### System Design Principles
 Applied modern software engineering principles:
@@ -149,12 +168,14 @@ Applied modern software engineering principles:
 - **Maintainability:** Wrote clean, well-documented code following SOLID principles
 - **Performance:** Optimized query patterns, implemented caching strategies, and reduced API response times
 - **Reliability:** Implemented comprehensive error handling and logging mechanisms
+- **Deployment:** Experience with Vercel for seamless deployment and hosting
 
 ### Problem-Solving Approach
 - **Analysis:** Deep understanding of requirements before implementation
 - **Design:** Thoughtful architecture decisions considering trade-offs
-- **Implementation:** Writing efficient, readable code
+- **Implementation:** Writing efficient, readable code with best practices
 - **Testing:** Ensuring robustness through thorough testing strategies
+- **Iteration:** Continuous improvement based on user feedback and performance metrics
 
 ---
 
@@ -164,8 +185,10 @@ Applied modern software engineering principles:
 - ✅ **Proficient in modern JavaScript** and contemporary backend technologies
 - ✅ **Demonstrated ability to design and implement scalable solutions** for real-world applications
 - ✅ **Committed to writing clean, maintainable code** following industry best practices
-- ✅ **Successfully delivered multiple full-stack projects** from conception to deployment
+- ✅ **Successfully deployed multiple full-stack projects** from conception to production
 - ✅ **Problem-solver with keen attention to detail** and focus on user experience
+- ✅ **Experience with payment integration and transaction management**
+- ✅ **Proficient in deployment and DevOps practices**
 
 ---
 
